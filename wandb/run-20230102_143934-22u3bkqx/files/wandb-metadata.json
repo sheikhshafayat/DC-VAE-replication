@@ -1,0 +1,353 @@
+{
+    "os": "Linux-5.15.0-56-generic-x86_64-with-glibc2.35",
+    "python": "3.9.15",
+    "heartbeatAt": "2023-01-02T05:39:35.154992",
+    "startedAt": "2023-01-02T05:39:34.438535",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/raid/gpgpu2/cvml_intern/sheikh/DC-VAE-replication/train.py",
+    "codePath": "train.py",
+    "git": {
+        "remote": "https://github.com/sheikhshafayat/DC-VAE-replication.git",
+        "commit": "b02f33841048940a96a804c7c0da3371616365bf"
+    },
+    "email": null,
+    "root": "/raid/gpgpu2/cvml_intern/sheikh/DC-VAE-replication",
+    "host": "CVML-GPGPU2",
+    "username": "user_intern",
+    "executable": "/home/user_intern/miniconda3/envs/py3.9/bin/python",
+    "cpu_count": 28,
+    "cpu_count_logical": 56,
+    "cpu_freq": {
+        "current": 2407.8858928571426,
+        "min": 1000.0,
+        "max": 3200.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1000.0,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2600.002,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1000.0,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2199.953,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2600.0,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2599.999,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2600.0,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1000.0,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1000.0,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2599.999,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2600.0,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2599.998,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2599.998,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2600.0,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2675.778,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1100.0,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1000.0,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2677.159,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2677.38,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2677.303,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1000.0,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2000.0,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1000.0,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1000.0,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2676.75,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2600.0,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1300.0,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2600.0,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2200.001,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2599.999,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1000.0,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2600.0,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2600.0,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2600.0,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2599.999,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2600.0,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2600.0,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2599.999,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2607.175,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2674.66,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2400.0,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2673.642,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1000.0,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1000.0,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2673.634,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2800.0,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2673.633,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2673.641,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2673.64,
+            "min": 1000.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1000.0,
+            "max": 3200.0
+        }
+    ],
+    "disk": {
+        "total": 908.3503456115723,
+        "used": 123.70765686035156
+    },
+    "gpu": "NVIDIA TITAN Xp",
+    "gpu_count": 8,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA TITAN Xp",
+            "memory_total": 12884901888
+        },
+        {
+            "name": "NVIDIA TITAN Xp",
+            "memory_total": 12884901888
+        },
+        {
+            "name": "NVIDIA TITAN Xp",
+            "memory_total": 12884901888
+        },
+        {
+            "name": "NVIDIA TITAN Xp",
+            "memory_total": 12884901888
+        },
+        {
+            "name": "NVIDIA TITAN Xp",
+            "memory_total": 12884901888
+        },
+        {
+            "name": "NVIDIA TITAN Xp",
+            "memory_total": 12884901888
+        },
+        {
+            "name": "NVIDIA TITAN Xp",
+            "memory_total": 12884901888
+        },
+        {
+            "name": "NVIDIA TITAN Xp",
+            "memory_total": 12884901888
+        }
+    ],
+    "memory": {
+        "total": 125.55646896362305
+    }
+}

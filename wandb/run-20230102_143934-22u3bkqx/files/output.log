@@ -1,0 +1,21 @@
+/raid/gpgpu2/cvml_intern/sheikh/DC-VAE-replication/utils/misc.py:18: UserWarning: nn.init.xavier_uniform is now deprecated in favor of nn.init.xavier_uniform_.
+  nn.init.xavier_uniform(m.weight.data, 1.)
+total progress:   0%|                                                                                                                                                                                                                                                                        | 0/800 [00:00<?, ?it/s]
+  0%|                                                                                                                                                                                                                                                                                        | 0/781 [00:00<?, ?it/s]
+total progress:   0%|                                                                                                                                                                                                                                                                        | 0/800 [00:15<?, ?it/s]
+Traceback (most recent call last):
+  File "/raid/gpgpu2/cvml_intern/sheikh/DC-VAE-replication/train.py", line 120, in <module>
+    mu_logvar = encoder(imgs).view(bs, -1)
+  File "/home/user_intern/miniconda3/envs/py3.9/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1194, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/user_intern/miniconda3/envs/py3.9/lib/python3.9/site-packages/torch/nn/parallel/data_parallel.py", line 171, in forward
+    outputs = self.parallel_apply(replicas, inputs, kwargs)
+  File "/home/user_intern/miniconda3/envs/py3.9/lib/python3.9/site-packages/torch/nn/parallel/data_parallel.py", line 181, in parallel_apply
+    return parallel_apply(replicas, inputs, kwargs, self.device_ids[:len(replicas)])
+  File "/home/user_intern/miniconda3/envs/py3.9/lib/python3.9/site-packages/torch/nn/parallel/parallel_apply.py", line 81, in parallel_apply
+    thread.join()
+  File "/home/user_intern/miniconda3/envs/py3.9/lib/python3.9/threading.py", line 1060, in join
+    self._wait_for_tstate_lock()
+  File "/home/user_intern/miniconda3/envs/py3.9/lib/python3.9/threading.py", line 1080, in _wait_for_tstate_lock
+    if lock.acquire(block, timeout):
+KeyboardInterrupt

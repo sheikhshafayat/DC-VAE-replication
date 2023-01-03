@@ -1,0 +1,6 @@
+logs/
+*.png
+saved_models/
+tmp/
+dataset/
+*pyc

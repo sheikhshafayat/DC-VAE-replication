@@ -1,0 +1,11 @@
+/raid/gpgpu2/cvml_intern/sheikh/DC-VAE-replication/utils/misc.py:18: UserWarning: nn.init.xavier_uniform is now deprecated in favor of nn.init.xavier_uniform_.
+  nn.init.xavier_uniform(m.weight.data, 1.)
+Files already downloaded and verified
+total progress:   0%|                                                                                                                                                                                                                                                                        | 0/800 [00:00<?, ?it/s]
+
+  2%|█████▉                                                                                                                                                                                                                                                                         | 17/781 [00:05<01:22,  9.26it/s]
+total progress:   0%|                                                                                                                                                                                                                                                                        | 0/800 [00:07<?, ?it/s]
+Traceback (most recent call last):
+  File "/raid/gpgpu2/cvml_intern/sheikh/DC-VAE-replication/train.py", line 113, in <module>
+    real_imgs = imgs.type(torch.cuda.FloatTensor)
+KeyboardInterrupt

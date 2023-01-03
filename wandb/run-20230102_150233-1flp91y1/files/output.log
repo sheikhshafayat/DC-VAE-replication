@@ -1,0 +1,40 @@
+/raid/gpgpu2/cvml_intern/sheikh/DC-VAE-replication/utils/misc.py:18: UserWarning: nn.init.xavier_uniform is now deprecated in favor of nn.init.xavier_uniform_.
+  nn.init.xavier_uniform(m.weight.data, 1.)
+total progress:   0%|          | 0/800 [00:00<?, ?it/s]
+  0%|          | 0/781 [00:00<?, ?it/s]
+Files already downloaded and verified
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 33%|███▎      | 260/781 [00:56<01:15,  6.87it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
